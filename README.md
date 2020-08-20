@@ -1,3 +1,8 @@
+New edit. Applying my own update for monogame. 
+
+By Ari
+
+
 Zombie Smashers for XNA 4.0
 ===========================
 
